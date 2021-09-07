@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Heriberto Figuroa Michel # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: figmiche@gmail.com
+  phone: 312 214 1726
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@SOYCUB0'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -122,13 +122,13 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: JavaScript
       level: 20%
 
-    - name: PyTorch
+    - name: React.js
       level: 40%
 
-    - name: Tensorflow
+    - name: CSS
       level: 60%
 
     - name: Caffe

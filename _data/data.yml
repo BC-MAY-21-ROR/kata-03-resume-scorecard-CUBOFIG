@@ -56,96 +56,51 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person who likes to deliver value with each contribution, I am always looking for new knowledge that I can integrate into future projects and help me grow as a programmer.
-
+    I am a person who likes to deliver value with each contribution, 
+    Which is why I'm always looking for new knowledge that can be integrate into 
+    future projects and help me grow as a programmer. I like to interact 
+    with different communities of coders and to get better through feedback and teamwork.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineering, Telematics Faculty.
     university: University of Colima.
-    time: 2018 Aug. - current
+    time: 2018 - current
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Developer
+    time: 2020 - 2021
+    company: Freelance
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Point of sale developed based on technologies REACT.js and Firebase. 
+      In this project I was in charge of performing the tasks of:
+        - Development of react.js components.
+        - Building responsive web design with bootstrap.
+        - Using react.js for data management in firebase.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
-# Registra aquí tus habilidades técnicas, para level utiliza:
-# 20% para Novice
-# 40% para Advanced beginner
-# 60% para Competent
-# 80% para Proficient
-# 100% para Expert
 skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
     - name: JavaScript
-      level: 70%
+      level: 60%
 
     - name: React.js
-      level: 70%
+      level: 80%
 
     - name: HTML
-      level: 85%
+      level: 80%
 
     - name: Bootstrap
-      level: 90%
+      level: 80%
 
     - name: Sass
       level: 60%
 
     - name: Firebase
-      level: 50%
+      level: 60%
 
 # NO MODIFICAR
 footer: >

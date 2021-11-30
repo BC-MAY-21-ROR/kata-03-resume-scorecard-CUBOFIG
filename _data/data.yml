@@ -14,8 +14,8 @@ sidebar:
   # Actualiza tus datos de contacto
   email: figmiche@gmail.com
   phone: +52 312 214 1726
-  website: www.linkedin.com/in/heriberto-figueroa-michel-750517207/
-  linkedin: brightcoders
+  website:
+  linkedin: Heriberto Figueroa Michel
   github: CUBOFIG
   gitlab:
   bitbucket:
@@ -80,6 +80,11 @@ experiences:
         - Development of react.js components.
         - Building responsive web design with bootstrap.
         - Using react.js for data management in firebase.
+
+  projects:
+    - name: Personal Application - MERN.
+      link-repository: https://github.com/CUBOFIG/CubeTasks-Client
+      link-repository: https://cubetasks-cubofig.netlify.app/
 
 skills:
   title: Technical Skills # NO MODIFICAR

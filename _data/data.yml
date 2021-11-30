@@ -13,16 +13,17 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: figmiche@gmail.com
-  phone: 312 214 1726
-  website: # No agregar http://
+  phone: +52 312 214 1726
+  website: www.linkedin.com/in/heriberto-figueroa-michel-750517207/
   linkedin: brightcoders
   github: CUBOFIG
   gitlab:
   bitbucket:
-  twitter: '@SOYCUB0'
+  twitter: "@SOYCUB0"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
+  cv:
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -45,12 +46,12 @@ sidebar:
 
     - item: Collaboration
       link: # dejar en blanco
-    
+
     - item: Work Ethic
-      link:
+      link: # dejar en blanco
 
     - item: Emphathy
-      link:
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -65,14 +66,14 @@ career-profile:
 educationcomplete:
   - degree: Software Engineering, Telematics Faculty.
     university: University of Colima.
-    time: 2018 - current
+    time: 2018 - 2022
     details: |
-
+      Thesis topic: Development of augmented reality application.
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Developer
     time: 2020 - 2021
-    company: Freelance
+    company: Freelance - POS
     details: |
       Point of sale developed based on technologies REACT.js and Firebase. 
       In this project I was in charge of performing the tasks of:
@@ -85,7 +86,7 @@ skills:
 
   toolset:
     - name: JavaScript
-      level: 60%
+      level: 80%
 
     - name: React.js
       level: 80%
@@ -100,6 +101,24 @@ skills:
       level: 60%
 
     - name: Firebase
+      level: 40%
+
+    - name: Github
+      level: 80%
+
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby On Rails
+      level: 60%
+
+    - name: Formik
+      level: 80%
+
+    - name: Redux
+      level: 40%
+
+    - name: React Context
       level: 60%
 
 # NO MODIFICAR

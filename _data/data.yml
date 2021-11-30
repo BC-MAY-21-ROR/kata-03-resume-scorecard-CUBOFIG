@@ -83,8 +83,8 @@ experiences:
 
 projects:
   - name: Personal Application - MERN.
-    repo: https://github.com/CUBOFIG/CubeTasks-Client
-    link: https://cubetasks-cubofig.netlify.app/
+    repo: github.com/CUBOFIG/CubeTasks-Client
+    link: cubetasks-cubofig.netlify.app/
 
 skills:
   title: Technical Skills # NO MODIFICAR

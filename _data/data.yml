@@ -81,10 +81,10 @@ experiences:
         - Building responsive web design with bootstrap.
         - Using react.js for data management in firebase.
 
-  projects:
-    - name: Personal Application - MERN.
-      link-repository: https://github.com/CUBOFIG/CubeTasks-Client
-      link-repository: https://cubetasks-cubofig.netlify.app/
+projects:
+  - name: Personal Application - MERN.
+    link-repository: https://github.com/CUBOFIG/CubeTasks-Client
+    link-repository: https://cubetasks-cubofig.netlify.app/
 
 skills:
   title: Technical Skills # NO MODIFICAR

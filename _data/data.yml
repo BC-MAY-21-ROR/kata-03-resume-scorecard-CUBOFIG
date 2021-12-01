@@ -58,10 +58,15 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person who likes to deliver value with each contribution, 
-    Which is why I'm always looking for new knowledge that can be integrate into 
-    future projects and help me grow as a programmer. I like to interact 
-    with different communities of coders and to get better through feedback and teamwork.
+    I am a person who likes to deliver value with each contribution, that is 
+    why I always look for new knowledge that can be integrated into future 
+    projects and which will allow me to grow as a programmer, I have experience 
+    in the use of frameworks such as React.js and Ruby on rails , also in 
+    collaborative work through the use of version controllers such as Github 
+    or the agile work methodologies.
+
+    I like interacting with different developer communities, since I consider 
+    teamwork to be a key point to achieve objectives, through support and feedback.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:

@@ -24,9 +24,9 @@
         {{ experience.description | markdownify }}
       </div>
       {% endif %}
-      <ul class="details">
+      <ul>
         <li>
-          <a href="http://{{ experience.repo }}">{{ experience.repo }}</a>
+          <a class="details" href="http://{{ experience.repo }}">{{ experience.repo }}</a>
         </li>
         <li>
           <a class="details" href="http://{{ experience.link }}">{{ experience.link }}</a>

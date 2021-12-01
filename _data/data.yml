@@ -15,7 +15,8 @@ sidebar:
   email: figmiche@gmail.com
   phone: +52 312 214 1726
   website:
-  linkedin: Heriberto Figueroa Michel
+  linkedin-name: Heriberto Figueroa Michel
+  linkedin-link: www.linkedin.com/in/heriberto-figueroa-michel-750517207/
   github: CUBOFIG
   gitlab:
   bitbucket:
@@ -83,6 +84,10 @@ experiences:
 
 projects:
   - name: Personal Application - MERN.
+    description: |
+      Development of MERN type personal project, 
+      for the management of tasks in multiple groups, 
+      it also has an authentication system for user validation.
     repo: github.com/CUBOFIG/CubeTasks-Client
     link: cubetasks-cubofig.netlify.app/
 

@@ -27,7 +27,7 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 
 1. Ubica el apartado `tagline` y escribe según corresponda:
    - Ruby on Rails Web Developer
-   - React Native Mobile Developer
+   - React Native Mobile Devel.oper
 
 ## Datos de contacto
 
